@@ -1,0 +1,35 @@
+.b1 {
+  background-color: #8e838e; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+}
+
+#output
+{
+background-color:#c4c48d;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+ 
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 10px;
+
+
+}
+fieldset
+{
+width:500px;
+border:2px dotted black;
+}
